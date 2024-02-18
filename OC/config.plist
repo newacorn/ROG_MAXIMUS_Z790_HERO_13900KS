@@ -114,7 +114,13 @@
 	<key>DeviceProperties</key>
 	<dict>
 		<key>Add</key>
-		<dict/>
+		<dict>
+			<key>PciRoot(0x0)/Pci(0x1F,0x3)</key>
+			<dict>
+				<key>layout-id</key>
+				<integer>12</integer>
+			</dict>
+		</dict>
 		<key>Delete</key>
 		<dict/>
 	</dict>
@@ -1025,8 +1031,6 @@
 				<data>bwIAAA==</data>
 				<key>prev-lang:kbd</key>
 				<string>en-US:0</string>
-				<key>boot-args</key>
-				<string>alcid=12</string>
 			</dict>
 		</dict>
 		<key>Delete</key>

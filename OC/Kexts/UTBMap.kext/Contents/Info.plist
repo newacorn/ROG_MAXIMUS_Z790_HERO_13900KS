@@ -78,29 +78,15 @@
                 <key>IOProviderMergeProperties</key>
                 <dict>
                     <key>port-count</key>
-                    <data>FgAAAA==</data>
+                    <data>FwAAAA==</data>
                     <key>ports</key>
                     <dict>
-                        <key>HS01</key>
+                        <key>HS04</key>
                         <dict>
                             <key>UsbConnector</key>
                             <integer>0</integer>
                             <key>port</key>
-                            <data>AQAAAA==</data>
-                        </dict>
-                        <key>HS02</key>
-                        <dict>
-                            <key>UsbConnector</key>
-                            <integer>0</integer>
-                            <key>port</key>
-                            <data>AgAAAA==</data>
-                        </dict>
-                        <key>HS03</key>
-                        <dict>
-                            <key>UsbConnector</key>
-                            <integer>0</integer>
-                            <key>port</key>
-                            <data>AwAAAA==</data>
+                            <data>BAAAAA==</data>
                         </dict>
                         <key>HS05</key>
                         <dict>
@@ -112,32 +98,39 @@
                         <key>HS06</key>
                         <dict>
                             <key>UsbConnector</key>
+                            <integer>255</integer>
+                            <key>port</key>
+                            <data>BgAAAA==</data>
+                        </dict>
+                        <key>HS07</key>
+                        <dict>
+                            <key>UsbConnector</key>
                             <integer>0</integer>
                             <key>port</key>
                             <data>BwAAAA==</data>
                         </dict>
-                        <key>HS07</key>
+                        <key>HS08</key>
                         <dict>
                             <key>UsbConnector</key>
                             <integer>255</integer>
                             <key>port</key>
                             <data>CgAAAA==</data>
                         </dict>
-                        <key>HS08</key>
-                        <dict>
-                            <key>UsbConnector</key>
-                            <integer>9</integer>
-                            <key>port</key>
-                            <data>DAAAAA==</data>
-                        </dict>
                         <key>HS09</key>
                         <dict>
                             <key>UsbConnector</key>
-                            <integer>9</integer>
+                            <integer>0</integer>
+                            <key>port</key>
+                            <data>DAAAAA==</data>
+                        </dict>
+                        <key>HS10</key>
+                        <dict>
+                            <key>UsbConnector</key>
+                            <integer>0</integer>
                             <key>port</key>
                             <data>DQAAAA==</data>
                         </dict>
-                        <key>HS10</key>
+                        <key>HS11</key>
                         <dict>
                             <key>UsbConnector</key>
                             <integer>255</integer>
@@ -185,6 +178,13 @@
                             <integer>3</integer>
                             <key>port</key>
                             <data>FgAAAA==</data>
+                        </dict>
+                        <key>SS07</key>
+                        <dict>
+                            <key>UsbConnector</key>
+                            <integer>3</integer>
+                            <key>port</key>
+                            <data>FwAAAA==</data>
                         </dict>
                     </dict>
                 </dict>
